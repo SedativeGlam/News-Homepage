@@ -56,6 +56,6 @@ menu.addEventListener("click", ()=>{
 
 menuClose.addEventListener("click", () =>{
   unorderedL.style.display = "none"
-  container.style.backgroundColor = "white"
+  container.style.backgroundColor = "white" 
   imgMobile.style.opacity = "1"
 })
